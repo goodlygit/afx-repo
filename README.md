@@ -1,0 +1,2 @@
+# afx-repo
+res-manange
