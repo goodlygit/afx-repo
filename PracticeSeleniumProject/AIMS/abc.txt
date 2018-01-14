@@ -1,0 +1,101 @@
+Top 7 Websites To Practice Selenium Webdriver OnlineSelenium Tutorial  Updated: October 20, 2017  Harsh S.  demo sites for selenium practice
+
+ 
+Are you looking for demo websites to practice Selenium Webdriver Online? Then, don’t miss to look at the seven online resources, we’ve picked for you. These websites are completely free and give you the right platform to pre-validate your tests before you run them in production.
+
+Most of you would know that Selenium Webdriver is an API tool for Web testing which many QA and automation engineers use around the world. It is not only loved by the testing community instead many of the software companies are using it as a backbone for their own automation product offerings.
+
+You may find exuberant study material available on the web to help test engineers in learning Selenium. But it’s harder to find the demo websites where you can dry run Selenium tests or proofread them for errors.
+
+Hence, we’ve brought you the below collection which can make your entire testing cycle as easy as it should be.
+
+Why Do You Need Demo Websites To Practice Selenium Webdriver?
+Whether you are a beginner in Selenium or using it from quite a time, you’ll need a platform to learn and test the automation artifacts. Hence, we tried to bring in a list of demo websites where you can practice Selenium webdriver online, write and execute your test scripts.
+
+All of you will find the list incredibly useful as these will cover many of your real-time web automation use case scenario. Some of the common examples include are like testing of a login page, online registration forms, and automating flight booking. And for testing e-commerce sites, we also added a few demo sites which help you simulate the e-commerce transactions.
+
+All these demo websites could be a great platform for you to learn and practice. Also, you can conceive a no. of test scenario to automate after looking at the functionality each website provides.
+
+Demo websites to practice Selenium webdriver online
+Websites to Practice Selenium Webdriver Online
+
+Since you are now getting curious to know about the online websites to test Selenium webdriver, so let’s check them out one by one.
+
+List Of Websites To Practice Selenium Webdriver Online.
+1. Http://Phptravels.Com/Demo/
+This is a brilliant online resource to learn and exercise Selenium webdriver. You can prepare test scripts, test data, and object properties accordingly.
+
+It provides you with multiple options, listed few of them below.
+
+Please note that the demo usernames and passwords are available on the demo page.
+
+http://www.phptravels.net/ –
+It offers a web page where you can test online booking for hotel, flight, tours, and travel.
+It even lands you a login page which takes email id as the user name.
+http://www.phptravels.net/admin/ –
+Here you simply can do sign-in, opt to reset and even notify for a lost password.
+Best Selenium Webdriver Quiz for Beginners.
+
+2. Http://Thedemosite.Co.Uk/
+It is a lightning fast demo website to practice Selenium webdriver online. Here you can perform the following web operations.
+
+http://thedemosite.co.uk/addauser.php –
+Presents a web page to add a user.
+It displays the success/failure message on the screen.
+http://thedemosite.co.uk/login.php –
+It will give a login screen with username/password fields.
+You can use the “test” as username and “test” as the password.
+3. Http://Newtours.Demoaut.Com/
+It asks you to log in first before presenting the online flight booking web page. The demo username/password is test/test.
+
+http://newtours.demoaut.com/mercuryreservation.php –
+It has a Flight Finder to search for the lowest fare on different airlines.
+You can try to book a flight and can set preferences for economy/business.
+Best Selenium Webdriver Quiz for Professionals.
+
+4. Http://Www.Way2automation.Com/Demo.Html
+Another awesome website to practice Selenium webdriver online. It gives you so much to test that whatever we write but it would feel incomplete.
+
+Still, check out the below list for a quick reference.
+
+Interactive web operations –
+You can test operations like draggable, droppable, resizable, selectable and sortable.
+Online widget testing –
+You can play with autocomplete list of options, handle date picker, tabs, and sliders.
+Miscellaneous items –
+It’ll prompt with a variety of frames and windows. And will also present drop-downs and alert boxes.
+5. Http://Automationpractice.Com/
+It’s a full featured e-commerce website simulator. Here you can test anything from a simple login page to product selection and add/edit your shopping cart.
+
+It covers the complete online shopping workflow. You can write Selenium scripts to fill address, shipping details, and proceed to simulate payment.
+
+
+ 
+Best Selenium Webdriver Quiz for Experienced.
+
+6. Http://Demoqa.Com/
+This is an excellent site for online Selenium practice. It has a rich set of web UI functions specially designed to the needs of testing of web application of all types. Some of the notable operations on the web elements that you can perform are.
+
+Online registration – fill the registration form and submit.
+Interactive actions – Draggable, resizable and selectable etc.
+Widget functions – Autocomplete, slider, menu and date picker etc.
+Misc stuff – Testing with different frames and windows.
+7. Http://Enterprise.Demo.Orangehrmlive.Com/
+Last but not the least, let’s have a site which is a demo HR management site. You can write Selenium webdriver scripts to validate various users and access level test cases from this application.
+
+For your help, the landing page has all types of user’s credentials displayed on the screen which you can use them for login purpose.
+
+You can test all of your Selenium webdriver stuff covering login, menu navigation, dropdown, and many more things. You can also implement page object model and use this site for demo purpose.
+
+Footnote.
+We’ve drilled down many demo sites which are functional and can be really handy to practice Selenium webdriver online. Hope, the article would have struck you the same way we’ve thought.
+
+If you are also aware of any Selenium test link then please do send to us by using the comment box so that we can add it to the list.
+
+Also, please do share this important article among your friends and don’t forget to follow us on our social media (Facebook/Twitter) accounts.
+
+All the Best,
+
+TechBeamers.
+
+Sharing Is Bliss.

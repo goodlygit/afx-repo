@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36030" started-at="2017-12-31T07:29:40Z" finished-at="2017-12-31T07:30:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36030" started-at="2017-12-31T07:29:40Z" finished-at="2017-12-31T07:30:16Z">
+      <class name="com.demoqa.TestDemoQA">
+        <test-method status="PASS" signature="loadBrowserDriver()[pri:0, instance:com.demoqa.TestDemoQA@5b275dab]" name="loadBrowserDriver" is-config="true" duration-ms="6104" started-at="2017-12-31T12:59:40Z" finished-at="2017-12-31T12:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBrowserDriver -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.demoqa.TestDemoQA@5b275dab]" name="beforeMethod" is-config="true" duration-ms="453" started-at="2017-12-31T12:59:46Z" finished-at="2017-12-31T12:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.demoqa.TestDemoQA.testDemoQARegn() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="testDemoQARegn()[pri:0, instance:com.demoqa.TestDemoQA@5b275dab]" name="testDemoQARegn" duration-ms="28893" started-at="2017-12-31T12:59:47Z" finished-at="2017-12-31T13:00:16Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Error: Username already exists]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Error: Username already exists
+	at com.demoqa.RegistrationPage.verifyRegn(RegistrationPage.java:105)
+	at com.demoqa.TestDemoQA.testDemoQARegn(TestDemoQA.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoQARegn -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.demoqa.TestDemoQA@5b275dab]" name="afterMethod" is-config="true" duration-ms="520" started-at="2017-12-31T13:00:16Z" finished-at="2017-12-31T13:00:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDemoQARegn status=FAILURE method=TestDemoQA.testDemoQARegn()[pri:0, instance:com.demoqa.TestDemoQA@5b275dab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.demoqa.TestDemoQA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
